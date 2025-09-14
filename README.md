@@ -12,5 +12,6 @@ This repo (will) contains circuits that compute the perceptron formula.
 │  ├── L4
 │  └── ...
 ├── tools      -- Tools
+├── research   -- Research notes, experiment logs, and related files
 └── README.md  -- This file
 ```
