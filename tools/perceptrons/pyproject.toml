@@ -1,0 +1,11 @@
+[project]
+name = "perceptrons"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.5.0",
+    "jax>=0.7.1",
+    "matplotlib>=3.10.6",
+]

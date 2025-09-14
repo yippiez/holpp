@@ -1,0 +1,21 @@
+
+# Environment files
+.env
+
+# Python files
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info
+dist
+build
+.eggs
+pip-wheel-metadata
+*.log
+*.pot
+*.mo
+
